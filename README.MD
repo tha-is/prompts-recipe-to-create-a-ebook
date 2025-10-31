@@ -57,12 +57,12 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 <p>
     <p>&nbsp&nbsp&nbspThais Costa<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/tha-is">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
+    <a href="https://www.linkedin.com/in/
 tha-is-costa">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/_thaisco.exe/">
+    <a href="https://www.instagram.com/_thaisco/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
