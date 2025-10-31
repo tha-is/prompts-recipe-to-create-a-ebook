@@ -29,8 +29,7 @@ ChatGPT：
                                                                                                                                                               
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-
-|  título  | crie um título de ebook sobre o tema de criar um portfolio ou currículo com um site estático utilizando html, css, bootstrap ejavascript básico. O título deve ser épico e curto, e tenha uma temática mágica e medieval no título, me liste 5 variações de título. |
+| título | crie um título de ebook sobre o tema de criar um portfolio ou currículo com um site estático utilizando html, css, bootstrap ejavascript básico. O título deve ser épico e curto, e tenha uma temática mágica e medieval no título, me liste 5 variações de título. |
 
 
 Bing Image Creator
