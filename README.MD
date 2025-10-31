@@ -28,7 +28,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | crie um título de ebook sobre o tema de criar um portfolio ou currículo com um site estático utilizando html, css, bootstrap e |
+|  título  | crie um título de ebook sobre o tema de criar um portfolio ou currículo com um site estático utilizando html, css, bootstrap e
 javascript básico. O título deve ser épico e curto, e tenha uma temática mágica e medieval no título, me liste 5 variações de título. |
 
 
@@ -55,12 +55,6 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="./assets/cover.jpeg"
-    />
     <p>&nbsp&nbsp&nbspThais Costa<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/felipeAguiarCode">
